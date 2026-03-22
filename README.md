@@ -1,8 +1,7 @@
-# Chapter 6 SVM Lecture Notes
+# ML_SVM
 
-This repository contains the compiled lecture handout for Chapter 6, "支持向量机", prepared for the 山东大学数学学院 "多元统计分析" course.
+This repository stores materials related to SVM lecture notes and related assets.
 
-Included files:
+Current contents:
 
-- `chapter6_lecture_notes.pdf`: compiled lecture handout
-- `figures/`: figure assets used to generate the handout
+- `Lecture_Note/`: compiled Chapter 6 lecture note assets synced from `Tristan-sdu/ML_SVM_note`
