@@ -1,0 +1,3 @@
+[submodule "Lecture_Note"]
+	path = Lecture_Note
+	url = https://github.com/Tristan-sdu/ML_SVM_note.git
