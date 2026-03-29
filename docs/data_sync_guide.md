@@ -45,9 +45,9 @@ powershell -ExecutionPolicy Bypass -File .\scripts\package_processed.ps1
 
 默认会生成：
 
-1. `processed_dataset.zip`
-2. `processed_dataset.zip.sha256.txt`
-3. `processed_manifest.csv`
+1. `artifacts/processed_dataset.zip`
+2. `artifacts/processed_dataset.zip.sha256.txt`
+3. `artifacts/processed_dataset.manifest.csv`
 
 ## 5. 组员验证命令
 
