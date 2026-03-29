@@ -1,0 +1,6 @@
+processed/
+artifacts/
+results/
+__pycache__/
+*.pyc
+lecture_note_extract.txt
